@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kumarshreyak/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/kumarshreyak/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,7,6,8,9,4,5",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "56,280,227,331,396,111,164",
+                        "endColumns": "54,50,52,64,61,52,62",
+                        "endOffsets": "106,326,275,391,453,159,222"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "345,400,451,504,569,631,684",
+                        "endColumns": "54,50,52,64,61,52,62",
+                        "endOffsets": "395,446,499,564,626,679,742"
+                    }
+                },
+                {
+                    "source": "/home/kumarshreyak/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "14,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "747,1038",
+                        "endLines": "20,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "1033,1193"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/kumarshreyak/AndroidStudioProjects/ORB_SLAM2_Android/oRB_SLAM2_Android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/kumarshreyak/AndroidStudioProjects/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,7,6,8,9,4,5",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "56,280,227,331,396,111,164",
+                        "endColumns": "54,50,52,64,61,52,62",
+                        "endOffsets": "106,326,275,391,453,159,222"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "345,400,451,504,569,631,684",
+                        "endColumns": "54,50,52,64,61,52,62",
+                        "endOffsets": "395,446,499,564,626,679,742"
+                    }
+                },
+                {
+                    "source": "/home/kumarshreyak/AndroidStudioProjects/ORB_SLAM2_Android/oRB_SLAM2_Android/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "14,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "747,1038",
+                        "endLines": "20,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "1033,1193"
+                    }
+                }
+            ]
+        }
+    ]
+}
