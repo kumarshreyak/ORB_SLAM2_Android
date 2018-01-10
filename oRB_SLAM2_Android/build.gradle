@@ -14,6 +14,11 @@ android {
         }
     }
 
+    sourceSets.main
+            {
+                jni.srcDirs = [] // this means that ndk-build needs to bo invoked from command line
+            }
+
     buildTypes {
         release {
             minifyEnabled false
